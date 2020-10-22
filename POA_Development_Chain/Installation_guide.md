@@ -61,6 +61,17 @@ Chain ID 111
  
  ![Alt text](Screenshots/change-network.png)
  
- Click on "Add Custom Node" and input the network information 
+ Click on "Add Custom Node" and input the network information. Input the information listed above, your Custom Node window should look like the following screenshot. 
+ 
+ ![Alt text](Screenshots/custom_network.png) 
  
  
+# Sending a Transactions on MyCrypto
+
+On the left side of the menu select the View & Send option then slect Keystore file.
+
+![Alt text](Screenshots/select_keystore_file.png)
+
+From there, select Wallet File and then navigate to the Keystore directory inside your Node1 directory and select the file that is located there. This file will unlock your wallet inside MyCrypto.
+
+In the To Address box, type the account address that you would like to transfer ETH too, as well as the amount of ETH you would like to
