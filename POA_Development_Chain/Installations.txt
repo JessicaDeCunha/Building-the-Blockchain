@@ -1,0 +1,4 @@
+The installations requirements are as follows
+
+1. Download and install Go Ethereum Tools. Navigate to the link below, download version "Geth & Tools 1.9.7" based on your operating system
+    https://geth.ethereum.org/downloads/
