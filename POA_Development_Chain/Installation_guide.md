@@ -30,7 +30,7 @@ This blockchains' genesis block and nodes have already been created, follow the 
 
 # DevChain
 
-Chain ID 111
+    Chain ID: 111
 
 ## Node 1
 
