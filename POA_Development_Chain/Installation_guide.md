@@ -22,7 +22,7 @@ Upload the code, including the networkname.json and node folders.
 
 ### My Crypto
 
-1. Open your browser and navigate to the downloads page at https://download.mycrypto.com/. Here you will download MyCrypto based on your operating system
+1. Open your browser and navigate to the downloads page at https://download.mycrypto.com/; download the appropriate version to your operating system.
 
 
 ## Launching the Chain
@@ -74,4 +74,12 @@ On the left side of the menu select the View & Send option then slect Keystore f
 
 From there, select Wallet File and then navigate to the Keystore directory inside your Node1 directory and select the file that is located there. This file will unlock your wallet inside MyCrypto.
 
-In the To Address box, type the account address that you would like to transfer ETH too, as well as the amount of ETH you would like to
+In the To Address box, type the account address of Node2 and how much ETH you would like to transfer. 
+
+![Alt text](Screenshots/transaction-send.png)
+
+Confirm the transaction by clicking "Send Transaction". A green message will give you the option to check the transaction status; your transaction will state it is Pending until it has been sent with a Successful status change.
+
+![Alt text](Screenshots/TX_status.png)
+
+![Alt text](Screenshots/TX_status.png)
