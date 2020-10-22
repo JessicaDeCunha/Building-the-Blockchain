@@ -1,4 +1,17 @@
-The installations requirements are as follows
+Instructions to launch the chain
+
+Remember to include any environment setup instructions and dependencies.
+
+Be sure to include all of the geth flags required to get both nodes to mine and explain what they mean.
+
+Explain the configuration of the network, such as it's blocktime, chain ID, account passwords, ports, etc.
+
+Explain how to connect MyCrypto to your network and demonstrate (via screenshots and steps) and send a transaction.
+
+Upload the code, including the networkname.json and node folders.
+
+
+
 
 1. Download and install Go Ethereum Tools. Navigate to the link below, download version "Geth & Tools 1.9.7" based on your operating system
     https://geth.ethereum.org/downloads/
