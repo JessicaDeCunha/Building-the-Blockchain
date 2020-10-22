@@ -6,9 +6,6 @@ Be sure to include all of the geth flags required to get both nodes to mine and 
 
 Explain the configuration of the network, such as it's blocktime, chain ID, account passwords, ports, etc.
 
-Explain how to connect MyCrypto to your network and demonstrate (via screenshots and steps) and send a transaction.
-
-Upload the code, including the networkname.json and node folders.
 
 ## Dependencies 
 
@@ -27,8 +24,9 @@ Upload the code, including the networkname.json and node folders.
 
 ## Launching the Chain
 
-Open the DevChain folder to start the nodes. 
+Open the DevChain folder to locate the nodes. 
 
+This blockchains' genesis block and nodes have already been created, follow the instructions to commence the nodes to be able to send transactions.
 
 # DevChain
 
